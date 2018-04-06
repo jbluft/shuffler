@@ -16,7 +16,7 @@ const FriendCard = props => (
           <strong>Occupation:</strong> {props.occupation}
         </li>
         <li>
-          <strong>Location:</strong> {props.location}
+          <strong>Weapon:</strong> {props.location}
         </li>
       </ul>
     </div>
